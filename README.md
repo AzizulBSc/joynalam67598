@@ -1,4 +1,4 @@
-<p align="center"><img width=100% src="https://github.com/joynalam67598/joynalam67598/blob/master/assets/Profile_Intro.gif"></p>
+##Hi there 👋
 
 - 📫 How to reach me: Email me at joynalam67598@gmail.com 🙂
 
