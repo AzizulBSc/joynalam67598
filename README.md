@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/md-joynal-alam-a34b30202/">
   <img align="left" alt="joynalam67598's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-![](https://visitor-badge.glitch.me/badge?page_id=joynalam67598.joynalam67598)
+![](https://visitor-badge.glitch.me/badge?page_id=joynalam67598)
 
 <!-- - 📫 How to reach me: Email me at joynalam67598@gmail.com 🙂 -->
 
