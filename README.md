@@ -1,10 +1,9 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.linkedin.com/in/md-joynal-alam-a34b30202/">
-  <img align="left" alt="joynalam67598's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-![](https://visitor-badge.glitch.me/badge?page_id=joynalam67598)
 
-<!-- - 📫 How to reach me: Email me at joynalam67598@gmail.com 🙂 -->
+- 📫 How to reach me: Email me at joynalam67598@gmail.com 🙂
+- <a href="https://www.linkedin.com/in/md-joynal-alam-a34b30202/">
+  <img align="left" alt="joynalam67598's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  </a>
 
 #### My stack mostly includes
 ![](https://img.shields.io/badge/-javascript-yellow?style=flat)
