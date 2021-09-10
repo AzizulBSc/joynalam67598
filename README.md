@@ -1,4 +1,5 @@
-### Hi there 👋
+<p align="center"><img width=100% src="https://github.com/joynalam67598/joynalam67598/blob/master/assets/Profile_Intro.gif"></p>
+
 - 📫 How to reach me: Email me at joynalam67598@gmail.com 🙂
 
 
@@ -15,20 +16,8 @@
 <br/>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=joynalam67598&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joynalam67598&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Visits Badge](https://badges.pufler.dev/visits/joynalam67598/joynalam67598)](https://github.com/joynalam67598)
-<!--
-**joynalam67598/joynalam67598** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
