@@ -8,7 +8,7 @@
 #### My stack mostly includes
 
 [![CSharp](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=&link=https://github.com/kkoziarski)](https://github.com/joynalam67598)
-[![.NET Core](https://img.shields.io/badge/-.NET Core-5C2D91?style=flat-square&logo=&link=https://github.com/joynalam67598)](https://github.com/joynalam67598)
+[![.NET Core](https://img.shields.io/badge/-.NET-Core-5C2D91?style=flat-square&logo=&link=https://github.com/joynalam67598)](https://github.com/joynalam67598)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-red?style=flat-square&logo=microsoft-sql-server&link=https://github.com/kkoziarski)
 <br/>
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/joynalam67598)](https://github.com/joynalam67598) 
