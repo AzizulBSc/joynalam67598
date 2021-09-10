@@ -8,16 +8,14 @@
 ![](https://img.shields.io/badge/-php-9cf?style=flat)
 ![](https://img.shields.io/badge/-react-blue?style=flat)
 ![](https://img.shields.io/badge/-c++-green?style=flat)
-![](https://img.shields.io/badge/-dot-net-core-informational?style=flat)
 ![](https://img.shields.io/badge/-laravel-orange?style=flat)
 ![](https://img.shields.io/badge/-git-red?style=flat)
 ![](https://img.shields.io/badge/-sql-lightgrey?style=flat)
 
 <br/>
 
-[![Foyzul's GitHub stats](https://github-readme-stats.vercel.app/api?username=joynalam67598)](https://github.com/joynalam67598/github-readme-stats)
-
-![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joynalam67598&theme=blue-green)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=joynalam67598&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joynalam67598&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Visits Badge](https://badges.pufler.dev/visits/joynalam67598/joynalam67598)](https://github.com/joynalam67598)
 <!--
