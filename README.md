@@ -19,7 +19,7 @@
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/joynalam67598)](https://github.com/joynalam67598)
 
-[![Php](https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=git&link=https://github.com/joynalam67598)](https://github.com/joynalam67598)
+[![Php](https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=php&link=https://github.com/joynalam67598)](https://github.com/joynalam67598)
 
 <!-- ![](https://img.shields.io/badge/-php-9cf?style=flat)
 ![](https://img.shields.io/badge/-react-blue?style=flat)
