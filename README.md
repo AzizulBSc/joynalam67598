@@ -1,9 +1,6 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.linkedin.com/in/md-joynal-alam-a34b30202/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="joynalam67598.joynalam67598">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/email.svg" />
+  <img align="left" alt="joynalam67598's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 ![](https://visitor-badge.glitch.me/badge?page_id=joynalam67598.joynalam67598)
 
@@ -14,6 +11,7 @@
 ![](https://img.shields.io/badge/-php-9cf?style=flat)
 ![](https://img.shields.io/badge/-react-blue?style=flat)
 ![](https://img.shields.io/badge/-c++-green?style=flat)
+![](https://img.shields.io/badge/-asp.net-core-green?style=flat)
 ![](https://img.shields.io/badge/-laravel-orange?style=flat)
 ![](https://img.shields.io/badge/-git-red?style=flat)
 ![](https://img.shields.io/badge/-sql-lightgrey?style=flat)
