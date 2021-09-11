@@ -16,7 +16,7 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/joynalam67598)](https://github.com/joynalam67598) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/joynalam67598)](https://github.com/joynalam67598) 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/joynalam67598)](https://github.com/joynalam67598)
-[![MaterialUi](https://img.shields.io/badge/-Firebase-blue?style=flat-square&logo=materialui&link=https://github.com/joynalam67598)](https://github.com/joynalam67598)
+[![MaterialUi](https://img.shields.io/badge/-MaterialUI-blue?style=flat-square&logo=materialui&link=https://github.com/joynalam67598)](https://github.com/joynalam67598)
 [![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase&link=https://github.com/joynalam67598)](https://github.com/joynalam67598)
 <br/>
 [![Php](https://img.shields.io/badge/-PHP-gray?style=flat-square&logo=php&link=https://github.com/joynalam67598)](https://github.com/joynalam67598)
