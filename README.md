@@ -23,7 +23,6 @@
 [![Laravel](https://img.shields.io/badge/-Laravel-white?style=flat-square&logo=laravel&link=https://github.com/joynalam67598)](https://github.com/joynalam67598)
 [![MySql](https://img.shields.io/badge/-MySql-cyan?style=flat-square&logo=mysql&link=https://github.com/joynalam67598)](https://github.com/joynalam67598)
 <br/>
-[![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase&link=https://github.com/joynalam67598)](https://github.com/joynalam67598)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/joynalam67598)](https://github.com/joynalam67598)
 
 
