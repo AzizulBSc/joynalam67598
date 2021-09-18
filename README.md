@@ -4,7 +4,6 @@
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&link=https://github.com/joynalam67598)](https://www.linkedin.com/in/md-joynal-alam-a34b30202/)
 - [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/joynalam67598)](https://github.com/joynalam67598)
 
-
 #### My stack mostly includes
 ![C++](https://img.shields.io/badge/-C++-white?style=flat&logo=C%2B%2B&logoColor=00599C)
 [![CSharp](https://img.shields.io/badge/-C%23-blue?style=flat-square&logo=csharp&link=https://github.com/joynalam67598)](https://github.com/joynalam67598)
@@ -24,13 +23,10 @@
 [![MySql](https://img.shields.io/badge/-MySql-cyan?style=flat-square&logo=mysql&link=https://github.com/joynalam67598)](https://github.com/joynalam67598)
 <br/>
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/joynalam67598)](https://github.com/joynalam67598)
-
-
 <br/>
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=joynalam67598&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joynalam67598&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/joynalam67598/github-readme-stats)
-
+<br/>
 [![Visits Badge](https://badges.pufler.dev/visits/joynalam67598/joynalam67598)](https://github.com/joynalam67598)
 
