@@ -28,5 +28,7 @@
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joynalam67598&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/joynalam67598/github-readme-stats)
 <br/>
+#### Profile Visits
+![visitors](https://visitor-badge.glitch.me/badge?page_id=joynalam67598)
 [![Visits Badge](https://badges.pufler.dev/visits/joynalam67598/joynalam67598)](https://github.com/joynalam67598)
 
