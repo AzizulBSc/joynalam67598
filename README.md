@@ -34,5 +34,5 @@
 <br/>
 #### Profile Visits
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=joynalam67598)
-[![Visits Badge](https://badges.pufler.dev/visits/joynalam67598/joynalam67598)](https://github.com/joynalam67598)
+[![Visits](https://badges.pufler.dev/visits/joynalam67598/joynalam67598)](https://github.com/joynalam67598)
 
