@@ -8,11 +8,12 @@
 ![C++](https://img.shields.io/badge/-C++-white?style=flat&logo=C%2B%2B&logoColor=00599C)
 [![CSharp](https://img.shields.io/badge/-C%23-blue?style=flat-square&logo=csharp&link=https://github.com/joynalam67598)](https://github.com/joynalam67598)
 [![.NET Core MVC](https://img.shields.io/badge/-.NET%20Core%20MVC-5C2D91?style=flat-square&logo=.net&link=https://github.com/joynalam67598)](https://github.com/joynalam67598)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-red?style=flat-square&logo=microsoft-sql-server&link=https://github.com/kkoziarski)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-605d69?style=flat-square&logo=microsoft-sql-server&link=https://github.com/kkoziarski)
 <br/>
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/joynalam67598)](https://github.com/joynalam67598) 
 [![React](https://img.shields.io/badge/-React-white?style=flat-square&logo=react&link=https://github.com/joynalam67598)](https://github.com/joynalam67598) 
-[![React Native](https://img.shields.io/badge/-React%20Native-blue?style=flat-square&logo=react&link=https://github.com/joynalam67598)](https://github.com/joynalam67598) 
+[![React Native](https://img.shields.io/badge/-React%20Native-blue?style=flat-square&logo=react&link=https://github.com/joynalam67598)](https://github.com/joynalam67598)
+[![KnockoutJS](https://img.shields.io/badge/-KnockoutJS-db6600?style=flat-square&logo=knockout&link=https://github.com/joynalam67598)](https://github.com/joynalam67598) 
 <br/>
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/joynalam67598)](https://github.com/joynalam67598) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/joynalam67598)](https://github.com/joynalam67598) 
